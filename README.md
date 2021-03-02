@@ -8,7 +8,7 @@ I am using the data from Kaggle: <a href="https://www.kaggle.com/jeanmidev/smart
 ## Visualizing by animation
 <ol>
   <li>
-    <span style="test-font: 12px">The average temperature of the city</span>
+    The average temperature of the city
     <img src="output.gif">
   </li>
   <li>
