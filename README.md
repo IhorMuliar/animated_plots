@@ -1,2 +1,2 @@
-# animated_plots
+# Animated plots
 Animated plots
