@@ -5,3 +5,6 @@ Here, Animations are particularly useful when analysing time-series data. This h
 ## Data
 I am using the data from Kaggle: <a href="https://www.kaggle.com/jeanmidev/smart-meters-in-london" target="blank_">source</a>. The time-series data recordings representing the weather parameters of the city of London going from the span of 2011 to 2014.
 
+##Visualizing by animation
+1) The average temperature of the city
+<img src="output.gif">
