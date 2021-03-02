@@ -11,10 +11,14 @@ I am using the data from Kaggle: <a href="https://www.kaggle.com/jeanmidev/smart
     The average temperature of the city
     <img src="output.gif">
   </li>
-  <li>Adding some colour sections into the Animation
-  <img src="output2.gif"></li>
-  <li>Subplot Animation
-  <img src="output3.gif"></li>
+  <li>
+    Adding some colour sections into the Animation
+    <img src="output2.gif">
+  </li>
+  <li>
+    Subplot Animation
+    <img src="output3.gif">
+  </li>
 </ol>
 
 
